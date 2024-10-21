@@ -2,6 +2,7 @@
 ## Description:
 
 In this project, we present a cutting-edge method for **Image Forgery Detection** using a novel combination of Error Level Analysis (ELA) and **Convolutional Neural Networks (CNNs)**. Our approach stands out for its robustness and high accuracy.
+
 ![image](https://github.com/user-attachments/assets/6d67f060-4be3-4a25-8238-58b58613529e)
 
 ### Key Highlights:
