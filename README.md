@@ -37,3 +37,14 @@ We used the **CASIA 2.0** dataset available on Kaggle because of its reliability
 **Link to video**: https://youtu.be/0iSTFComJ5I
 
 > **Note:** Please be aware that due to some last-minute technical issues, a part of the video has inaudible audio. We apologize for any inconvenience this may cause and appreciate your understanding.
+
+### Next Steps for Image Forgery Detection:
+
+1. **Real-Time Forgery Detection**:  
+   - Optimize the system for real-time detection on platforms like social media using faster inference and scalable deployment.
+
+2. **Improving Accuracy**:  
+   - Use advanced models like ResNet or Transformers and apply transfer learning to improve detection accuracy.
+
+3. **Enhanced Forgery Detection**:  
+   - Integrate techniques for detecting sophisticated forgeries like DeepFakes to increase model robustness.
