@@ -1,4 +1,4 @@
-# Image-Forgery-Detection-Using-Machine-Learning
+# Image Forgery Detection Using Machine Learning - The AI Hackathon
 ## Description:
 
 In this project, we present a cutting-edge method for **Image Forgery Detection** using a novel combination of Error Level Analysis (ELA) and **Convolutional Neural Networks (CNNs)**. Our approach stands out for its robustness and high accuracy.
