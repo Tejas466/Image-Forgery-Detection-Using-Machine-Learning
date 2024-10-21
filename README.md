@@ -10,7 +10,8 @@ In this project, we present a cutting-edge method for **Image Forgery Detection*
   
 - **Innovation and Results:** Discover the innovative aspects of our method and see how it achieved an impressive accuracy of **90.3%** in detecting various types of image forgeries. This accuracy can be fine-tuned to produce even better results.
   
-## **Dataset Used:** We used the **CASIA 2.0** dataset available on Kaggle because of its reliability, robustness, and versatility in terms of the types of image forgeries present. This is a well-balanced dataset containing over **12,000+** images.
+## **Dataset Used:**
+We used the **CASIA 2.0** dataset available on Kaggle because of its reliability, robustness, and versatility in terms of the types of image forgeries present. This is a well-balanced dataset containing over **12,000+** images.
 - https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset
 
 ### Algorithms Implemented:
